@@ -6,9 +6,9 @@ Fixed version of dict to work with bachan libturglem and libMAFSA( actual on 21 
 To install:
 
 ```
-  cmake .
-  make
-
+cmake .
+make
+```
 
 https://github.com/bachan/libMAFSA
 
