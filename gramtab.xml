@@ -1,0 +1,80 @@
+<gramtab>
+	<parts_of_speech>
+		<PoS id="0" short="NOUN">существительное</PoS>
+		<PoS id="1" short="ADJ_FULL">прилагательное</PoS>
+		<PoS id="2" short="VERB">глагол</PoS>
+		<PoS id="3" short="PRONOUN">местоимение</PoS>
+		<PoS id="4" short="PRONOUN_P"></PoS>
+		<PoS id="5" short="PRONOUN_PREDK"></PoS>
+		<PoS id="6" short="NUMERAL">числительное</PoS>
+		<PoS id="7" short="NUMERAL_P">порядковое числительное</PoS>
+		<PoS id="8" short="ADV">наречие</PoS>
+		<PoS id="9" short="PREDK"></PoS>
+		<PoS id="10" short="PREP">предлог</PoS>
+		<PoS id="11" short="POSL"></PoS>
+		<PoS id="12" short="CONJ">союз</PoS>
+		<PoS id="13" short="INTERJ">междометие</PoS>
+		<PoS id="14" short="INP"></PoS>
+		<PoS id="15" short="PHRASE"></PoS>
+		<PoS id="16" short="PARTICLE">частица</PoS>
+		<PoS id="17" short="ADJ_SHORT">краткое прилагательное</PoS>
+		<PoS id="18" short="PARTICIPLE">причастие</PoS>
+		<PoS id="19" short="ADVERB_PARTICIPLE">деепричастие</PoS>
+		<PoS id="20" short="PARTICIPLE_SHORT">краткое причастие</PoS>
+		<PoS id="21" short="INFINITIVE">инфинитив</PoS>
+	</part_of_speech>
+	<grammems>
+		<grammem id="0" short="">единственное число</grammem>
+		<grammem id="1" short="">множественное число</grammem>
+		<grammem id="2" short="">именительный падеж</grammem>
+		<grammem id="3" short="">родеительный падеж</grammem>
+		<grammem id="4" short="">дательный падеж</grammem>
+		<grammem id="5" short="">винительный падеж</grammem>
+		<grammem id="6" short="">творительный падеж</grammem>
+		<grammem id="7" short="">предложный падеж</grammem>
+		<grammem id="8" short="">звательный падеж</grammem>
+		<grammem id="9" short="">мужской род</grammem>
+		<grammem id="10" short="">женский род</grammem>
+		<grammem id="11" short="">средний род</grammem>
+		<grammem id="12" short="">мужской-женский род</grammem>
+		<grammem id="13" short="">краткая форма</grammem>
+		<grammem id="14" short="">настоящее время</grammem>
+		<grammem id="15" short="">будущее время</grammem>
+		<grammem id="16" short="">прошедшее время</grammem>
+		<grammem id="17" short="">первое лицо</grammem>
+		<grammem id="18" short="">второе лицо</grammem>
+		<grammem id="19" short="">третье лицо</grammem>
+		<grammem id="20" short="">повелительное наклонение</grammem>
+		<grammem id="21" short="">одушевленное</grammem>
+		<grammem id="22" short="">неодушевленное</grammem>
+		<grammem id="23" short=""></grammem>
+		<grammem id="24" short=""></grammem>
+		<grammem id="25" short=""></grammem>
+		<grammem id="26" short=""></grammem>
+		<grammem id="27" short=""></grammem>
+		<grammem id="28" short=""></grammem>
+		<grammem id="29" short=""></grammem>
+		<grammem id="30" short=""></grammem>
+		<grammem id="31" short=""></grammem>
+		<grammem id="32" short=""></grammem>
+		<grammem id="33" short=""></grammem>
+		<grammem id="34" short=""></grammem>
+		<grammem id="35" short=""></grammem>
+		<grammem id="36" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+		<grammem id="" short=""></grammem>
+	</grammems>
+</gramtab>
+
